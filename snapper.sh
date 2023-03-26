@@ -17,7 +17,7 @@ banner (){
 	echo ""
 	echo -e "${YELLOW}[${BLUE}!!!${YELLOW}] ${BLUE}Tool-Name ${YELLOW}: ${GREEN}Snapper"
 	echo -e "${YELLOW}[${BLUE}!!!${YELLOW}] ${BLUE}Github    ${YELLOW}: ${GREEN}https://github.com/K3ysTr0K3R"
-	echo -e "${YELLOW}[${BLUE}!!!${YELLOW}] ${BLUE}Instagram ${YELLOW}: ${GREEN}jaredbrts175"
+	echo -e "${YELLOW}[${BLUE}!!!${YELLOW}] ${BLUE}Instagram ${YELLOW}: ${GREEN}1_k3ystr0k3r_1"
 	echo -e "${YELLOW}[${BLUE}!!!${YELLOW}] ${BLUE}Coded By  ${YELLOW}: ${GREEN}K3ysTr0K3R"
 	echo ""
 }
